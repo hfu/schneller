@@ -5271,7 +5271,7 @@
         },
         {
             "id": "l1013",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5299,12 +5299,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 3
             }
         },
         {
             "id": "l1014",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5332,12 +5333,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,195,165,1)"
+                "fill-extrusion-color": "rgba(255,195,165,1)",
+                "fill-extrusion-height": 15
             }
         },
         {
             "id": "l1015",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5365,12 +5367,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,135,75,1)"
+                "fill-extrusion-color": "rgba(255,135,75,1)",
+                "fill-extrusion-height": 50
             }
         },
         {
             "id": "l1016",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5398,12 +5401,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 3
             }
         },
         {
             "id": "l1017",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5431,12 +5435,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 10
             }
         },
         {
             "id": "l1018",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5479,12 +5484,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 3
             }
         },
         {
             "id": "l1019",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5527,12 +5533,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,195,165,1)"
+                "fill-extrusion-color": "rgba(255,195,165,1)",
+                "fill-extrusion-height": 15
             }
         },
         {
             "id": "l1020",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5575,12 +5582,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,135,75,1)"
+                "fill-extrusion-color": "rgba(255,135,75,1)",
+                "fill-extrusion-height": 50
             }
         },
         {
             "id": "l1021",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5623,12 +5631,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 3
             }
         },
         {
             "id": "l1022",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -5671,7 +5680,8 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 10
             }
         },
         {
@@ -8237,7 +8247,7 @@
         },
         {
             "id": "l1067",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -8273,12 +8283,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 3
             }
         },
         {
             "id": "l1068",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -8314,12 +8325,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,195,165,1)"
+                "fill-extrusion-color": "rgba(255,195,165,1)",
+                "fill-extrusion-height": 15
             }
         },
         {
             "id": "l1069",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -8355,12 +8367,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,135,75,1)"
+                "fill-extrusion-color": "rgba(255,135,75,1)",
+                "fill-extrusion-height": 50
             }
         },
         {
             "id": "l1070",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -8396,12 +8409,13 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 3
             }
         },
         {
             "id": "l1071",
-            "type": "fill",
+            "type": "fill-extrusion",
             "source": "v",
             "source-layer": "building",
             "metadata": {
@@ -8437,7 +8451,8 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "rgba(255,230,190,1)"
+                "fill-extrusion-color": "rgba(255,230,190,1)",
+                "fill-extrusion-height": 10
             }
         },
         {
